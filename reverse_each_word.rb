@@ -1,4 +1,5 @@
 def reverse_each_word(string)
-  %w("#{string}")
+  array = string.split(" ")
+  array 
   
 end 
